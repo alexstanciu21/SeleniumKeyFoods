@@ -2,31 +2,31 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-23T15:39:15 EEST" name="Default suite" finished-at="2022-08-23T15:39:31 EEST" duration-ms="16144">
+  <suite started-at="2022-08-23T16:36:42 EEST" name="Default suite" finished-at="2022-08-23T16:37:00 EEST" duration-ms="17953">
     <groups>
     </groups>
-    <test started-at="2022-08-23T15:39:15 EEST" name="Default test" finished-at="2022-08-23T15:39:31 EEST" duration-ms="16144">
+    <test started-at="2022-08-23T16:36:42 EEST" name="Default test" finished-at="2022-08-23T16:37:00 EEST" duration-ms="17953">
       <class name="tests.TestEndToEnd">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestEndToEnd@30b7c004]" started-at="2022-08-23T15:39:15 EEST" name="setUp" finished-at="2022-08-23T15:39:19 EEST" duration-ms="3910" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestEndToEnd@2f177a4b]" started-at="2022-08-23T16:36:42 EEST" name="setUp" finished-at="2022-08-23T16:36:47 EEST" duration-ms="5260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addFrozenFood()[pri:0, instance:tests.TestEndToEnd@30b7c004]" started-at="2022-08-23T15:39:19 EEST" name="addFrozenFood" finished-at="2022-08-23T15:39:31 EEST" duration-ms="11523" status="PASS">
+        <test-method signature="addFrozenFood()[pri:0, instance:tests.TestEndToEnd@2f177a4b]" started-at="2022-08-23T16:36:47 EEST" name="addFrozenFood" finished-at="2022-08-23T16:36:59 EEST" duration-ms="12015" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addFrozenFood -->
-        <test-method is-config="true" signature="recordFailure(org.testng.ITestResult)[pri:0, instance:tests.TestEndToEnd@30b7c004]" started-at="2022-08-23T15:39:31 EEST" name="recordFailure" finished-at="2022-08-23T15:39:31 EEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="recordFailure(org.testng.ITestResult)[pri:0, instance:tests.TestEndToEnd@2f177a4b]" started-at="2022-08-23T16:36:59 EEST" name="recordFailure" finished-at="2022-08-23T16:36:59 EEST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=addFrozenFood status=SUCCESS method=TestEndToEnd.addFrozenFood()[pri:0, instance:tests.TestEndToEnd@30b7c004] output={null}]]]>
+                <![CDATA[[TestResult name=addFrozenFood status=SUCCESS method=TestEndToEnd.addFrozenFood()[pri:0, instance:tests.TestEndToEnd@2f177a4b] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- recordFailure -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestEndToEnd@30b7c004]" started-at="2022-08-23T15:39:31 EEST" name="tearDown" finished-at="2022-08-23T15:39:31 EEST" duration-ms="688" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestEndToEnd@2f177a4b]" started-at="2022-08-23T16:36:59 EEST" name="tearDown" finished-at="2022-08-23T16:37:00 EEST" duration-ms="658" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
