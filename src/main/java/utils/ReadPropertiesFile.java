@@ -6,7 +6,6 @@ import java.util.Properties;
 public class ReadPropertiesFile {
 
 	public static Properties config = loadProperties("properties/config.properties");
-	public static Properties credentials = loadProperties("properties/credentials.properties");
 
 	public static Properties loadProperties(String filePath) {
 
